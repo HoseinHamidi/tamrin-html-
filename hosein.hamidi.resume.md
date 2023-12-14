@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>رزومه حسین حمیدی</title>
+</head>
+<header>
+    <img src="personal image.jpg" width="100" height="100" alt="personal image">
+    <h1 style="display:inline">Hosein Hamidi:</h1>
+    <h4 style="display:inline">computer engineering student</h4>
+</header>
+
+<body style="background-color:powderblue;">
+    <h4>Profile</h4>
+    <h6></h6>
+    <h4>Employment History</h4>
+    <ol>
+        <li>
+            <h5>related</h5>
+        </li>
+        <ul>
+            <li>seller at an kichen stuff store</li>
+        </ul>
+        <li>
+            <h5>irrelevant</h5>
+        </li>
+        <ul>
+            <li>
+                working in internet cafe(computer and internet service center)
+            </li>
+        </ul>
+    </ol>
+    <h4>Education</h4>
+    <h6>Diploma in computer</h6>
+    <h6>Associate degree in computer programming</h6>
+
+    <h4>Non-Academic courses taken</h4>
+    <h6>Computer intern in highschool(help desk and digital storage of physical files of users)</h6>
+
+    <h4>self-taught materials</h4>
+    <h6>social media contents making</h6>
+    <h6>grafic works(GI)</h6>
+    <h6>animation graphics making</h6>
+    <h6>game development and small game projects</h6>
+    <h6>helpdesk</h6>
+    
+    <h4>Details</h4>
+    <p>address:karaj<br>phone number:(+98)9232578487<br>gmail:hosein.hamidi<br>telegram:hhamidi</p>
+
+
+    <h4>
+        Skills
+        <h6>helpdesck</h6>
+		<h6>semi fast type</h6>
+		<h6>serious</h6>
+    </h4>
+
+    <h4>languages</h4>
+    <ol>
+        <li>persian</li>
+        <li>english(intermediate)</li>
+        <li>turkish(azeri)</li>
+        <li>russian(beginner)</li>
+    </ol>
+</body>
+
+      </html
