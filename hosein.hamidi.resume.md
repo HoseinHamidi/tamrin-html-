@@ -36,7 +36,7 @@
     <h4>Education</h4>
     <h6>Diploma in computer</h6>
     <h6>Associate degree in computer programming</h6>
-
+	
     <h4>Non-Academic courses taken</h4>
     <h6>Computer intern in highschool(help desk and digital storage of physical files of users)</h6>
 
